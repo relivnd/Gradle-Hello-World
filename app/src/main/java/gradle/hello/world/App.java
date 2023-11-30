@@ -5,7 +5,7 @@ package gradle.hello.world;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello World! This has been a great success!";
     }
 
     public static void main(String[] args) {
